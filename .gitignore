@@ -1,0 +1,6 @@
+__pycache__/*
+.vscode/*
+env/*
+notion_api
+license.txt
+notion-clear-trash_origin.py
